@@ -17,7 +17,7 @@
                                                           
 ```
 
-## Прежде, чем листать ниже, советую ознакомиться с сообщением ниже:                                                                                                                                                   
+## Прежде, чем листать дальше, я настоятельно советую ознакомиться с сообщением ниже:                                                                                                                                                   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1600&color=D9C705&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B5%D1%89%D1%91+%D1%80%D0%B0%D0%B7%2C+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%D0%B9+%7Busername%7D!+%F0%9F%91%8B;%D0%A2%D1%8B+%D0%BF%D0%BE%D0%BF%D0%B0%D0%BB+%D0%BD%D0%B0+GitHub+GRTUBORG+%2F%2F%2F;%D0%A0%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%B0%D0%B3%D0%B0%D0%B9%D1%81%D1%8F%2C+%D0%B1%D1%83%D0%B4%D1%8C+%D0%BA%D0%B0%D0%BA+%D0%B4%D0%BE%D0%BC%D0%B0+%2F%2F%2F;%D0%9D%D0%BE+%D0%BD%D0%B5+%D0%B7%D0%B0%D0%B1%D1%8B%D0%B2%D0%B0%D0%B9%2C+%D1%87%D1%82%D0%BE+%D1%82%D1%8B+%D0%B2+%D0%B3%D0%BE%D1%81%D1%82%D1%8F%D1%85+%F0%9F%98%89)](https://git.io/typing-svg)
 
 ## 📊 Общая статистика
@@ -26,7 +26,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GRTUBORG&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GRTUBORG&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRTUBORG&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GRTUBORG&theme=nord_dark)
 
-## 🏆 Основные ачивки
+## 🏆 Основные показатели, на которые стоит обратить внимание
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GRTUBORG)](https://github.com/ryo-ma/github-profile-trophy)
 
