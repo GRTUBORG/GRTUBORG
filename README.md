@@ -2,11 +2,11 @@
 
 ## 📊 Общая статистика
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GRTUBORG&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GRTUBORG&theme=nord_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRTUBORG&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GRTUBORG&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GRTUBORG&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GRTUBORG&theme=nord_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GRTUBORG&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GRTUBORG&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GRTUBORG&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GRTUBORG&theme=nord_dark)
 
 ## 🏆 Основные ачивки
 
